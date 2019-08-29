@@ -1,0 +1,1470 @@
+[
+  {
+    "list": {
+      "name": "甘肃电力消防安全综合管理平台",
+      "thumbUrl": "/static/images/thumbnail/gsdlxf.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027187",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5c80c5b58fc3ca0620e0b34c",
+      "date": "2019年01月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/gsdlxf/1.png"],
+      "customerName": "国网甘肃省电力公司",
+      "intro": "在建设消防可视化的基础上，建立了一套综合管理数据可视化平台，指导工作人员进行日常工作的管理。",
+      "category": "消防安全综合管理",
+      "env": "指挥大厅     分辨率4320*1080  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027187"
+    }
+  },
+  {
+    "list": {
+      "name": "南网地理信息可视化项目",
+      "thumbUrl": "/static/images/thumbnail/nwdlxx.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20022792",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5c80c63a8fc3ca0620e0b34f",
+      "date": "2018年11月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/nwdlxx/1.png",
+        "/static/images/design/nwdlxx/2.png",
+        "/static/images/design/nwdlxx/3.png",
+        "/static/images/design/nwdlxx/4.png",
+        "/static/images/design/nwdlxx/5.png"
+      ],
+      "customerName": "中国南方电网有限责任公司",
+      "intro": "南方电网在过去建设大屏的基础上推翻重建，综合展示南方电网十个单位的资产、服务、监控等信息。",
+      "category": "IT资产地图、安全运行总览、总部信息总览、告警监控总览、IT服务监控总览、业务监控总览",
+      "env": "指挥大厅     分辨率5600*2100  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20022792"
+    }
+  },
+  {
+    "list": {
+      "name": "建行大屏可视化平台",
+      "thumbUrl": "/static/images/thumbnail/jhksh2.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900957",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5c6b70a2b3fb89534e5d684a",
+      "date": "2018年09月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/jhksh2/1.png",
+        "/static/images/design/jhksh2/2.png"
+      ],
+      "customerName": "建设银行",
+      "intro": "建行南湖为加强日常管理，对数据中心的监控要求其建设数据可视化大屏，包括日常动环和告警的展示。",
+      "category": "监控主题、运营主题",
+      "env": "监控室     分辨率3960*1080  LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900957"
+    }
+  },
+  {
+    "list": {
+      "name": "渤海银行数据可视化",
+      "thumbUrl": "/static/images/thumbnail/bhyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893497",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5bcd4343b3fb896111b9f97c",
+      "date": "2017年12月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/bhyh/1.png",
+        "/static/images/design/bhyh/2.png",
+        "/static/images/design/bhyh/3.png",
+        "/static/images/design/bhyh/4.png",
+        "/static/images/design/bhyh/5.png",
+        "/static/images/design/bhyh/6.png",
+        "/static/images/design/bhyh/7.png",
+        "/static/images/design/bhyh/8.png",
+        "/static/images/design/bhyh/9.png",
+        "/static/images/design/bhyh/10.png",
+        "/static/images/design/bhyh/11.png"
+      ],
+      "customerName": "渤海银行",
+      "intro": "渤海银行新建ECC大屏，通过三种场景完美的展现出各种业务情况，提高了行内数据可视化展示分析的能力。",
+      "category": "参观主题、运维主题、双活切换",
+      "env": "ECC     分辨率15360*2160   DLP拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893497"
+    }
+  },
+  {
+    "list": {
+      "name": "云南富滇银行大屏可视化项目",
+      "thumbUrl": "/static/images/thumbnail/fdyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15895558",
+      "actualUrl": "http://www.thingjs.com/chart/publish/5c21cfc3b3fb89306bc49942",
+      "date": "2018年12月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/fdyh/1.png"],
+      "customerName": "云南富滇银行",
+      "intro": "富滇银行在短时间内搭建了一套年终结算的大屏，顺利迎接了领导的检查，圆满完成了结算任务。",
+      "category": "年终结算",
+      "env": "ECC     分辨率1920*1080   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15895558"
+    }
+  },
+  {
+    "list": {
+      "name": "民生银行数据中心可视化",
+      "thumbUrl": "/static/images/thumbnail/msyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893373",
+      "actualUrl": "https://chart.thingjs.com/chart/publish/5b5fbecab82bb558dd78ae5d",
+      "date": "2017年11月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/msyh/1.png",
+        "/static/images/design/msyh/2.png",
+        "/static/images/design/msyh/3.png",
+        "/static/images/design/msyh/4.png"
+      ],
+      "customerName": "民生银行",
+      "intro": "民生银行改造ECC大屏的过程中，通过创新式的开门方式将告警信息生动的展示出来，提升了本单位的数据可视化水平。",
+      "category": "运行模式、参观模式、应用系统监控",
+      "env": "ECC     分辨率7680*2160   DLP拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893373"
+    }
+  },
+  {
+    "list": {
+      "name": "北京电力应急指挥大屏",
+      "thumbUrl": "/static/images/thumbnail/bjdlyjzh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20021596",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5c7398bcb3fb89534e5d68d6",
+      "date": "2018年12月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/bjdlyjzh/1.png",
+        "/static/images/design/bjdlyjzh/2.png",
+        "/static/images/design/bjdlyjzh/3.png"
+      ],
+      "customerName": "北京电力",
+      "intro": "面向对外汇报，展示自动化处运维管理业务能力和运维技术能力、以及安全体系建设，展示自动化处室的高端水平，同时参考日常运维主要工作进行可视化分析展示：集中事件视图，运行信息管理、运行业务管理。",
+      "category": "参观模式、监控模式",
+      "env": "指挥大厅     分辨率7680*2160  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20021596"
+    }
+  },
+  {
+    "list": {
+      "name": "红塔银行数据可视化平台",
+      "thumbUrl": "/static/images/thumbnail/htyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893242",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5b7543d82a6b190dfe1e30e8",
+      "date": "2018年02月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/htyh/1.png",
+        "/static/images/design/htyh/2.png",
+        "/static/images/design/htyh/3.png",
+        "/static/images/design/htyh/4.png",
+        "/static/images/design/htyh/5.png"
+      ],
+      "customerName": "云南红塔银行",
+      "intro": "红塔银行建设了非常多的大屏可视化内容，满足了多个场景的需求，并得到上级领导的认可与表扬。",
+      "category": "参观主题、IT基础监控、业务迁移流程监控、业务监控、年终结算",
+      "env": "监控室     分辨率7680*2160  LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893242"
+    }
+  },
+  {
+    "list": {
+      "name": "中国银行西安中心数据可视化平台",
+      "thumbUrl": "/static/images/thumbnail/zgyhxazx.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894615",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5c80bab68fc3ca0620e0b34a",
+      "date": "2018年05月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/zgyhxazx/1.png"],
+      "customerName": "中国银行",
+      "intro": "中国银行为了加强西安分行的数据中心管理水平，建设了本套数据可视化平台，对西安的数据中心基础环境和网络运行环境进行统计监控。",
+      "category": "监控主题",
+      "env": "监控室     分辨率3840*1080  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894615"
+    }
+  },
+  {
+    "list": {
+      "name": "农商行大屏可视化项目",
+      "thumbUrl": "/static/images/thumbnail/nsh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894841",
+      "actualUrl": "http://chart.thingjs.com/chart/gallery/5ae2e3c020876c089655b5c3",
+      "date": "2018年09月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/nsh/1.png"],
+      "customerName": "北京农村商业银行",
+      "intro": "基于日常展示的需求，北农商建立一天基于业务展示的可视化大屏，用于向领导和外部机构宣传。",
+      "category": "业务主题",
+      "env": "监控室     分辨率4800*2400  DLP拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894841"
+    }
+  },
+  {
+    "list": {
+      "name": "江西省电子政务可视化平台",
+      "thumbUrl": "/static/images/thumbnail/jxsdzzw.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893234",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5b31ebe720876c666bfa7fb1",
+      "date": "2018年03月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/jxsdzzw/1.png",
+        "/static/images/design/jxsdzzw/2.png",
+        "/static/images/design/jxsdzzw/3.png",
+        "/static/images/design/jxsdzzw/4.png",
+        "/static/images/design/jxsdzzw/5.png"
+      ],
+      "customerName": "江西省政府信息中心",
+      "intro": "在DCV的基础上建设一套对外展示的可视化大屏系统，重点对单位的园区场景、网路、监控等进行一体化的资源展示。",
+      "category": "中心概要、应用监控、网络架构、网络安全、机房环境",
+      "env": "演示大厅     分辨率1920*1080   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893234"
+    }
+  },
+  {
+    "list": {
+      "name": "天府银行大屏可视化",
+      "thumbUrl": "/static/images/thumbnail/tfyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900936",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5c0a24efb3fb89537e7d9611",
+      "date": "2018年08月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/tfyh/1.png",
+        "/static/images/design/tfyh/2.png",
+        "/static/images/design/tfyh/3.png",
+        "/static/images/design/tfyh/4.png",
+        "/static/images/design/tfyh/5.png"
+      ],
+      "customerName": "天府银行",
+      "intro": "通过数据可视化的建设，天府银行将IT部门的资产信息、网络状况和运行状况都做了比较全的展示，满足了领导的展示需求。",
+      "category": "全行总览、数据信息、网络信息、业务信息",
+      "env": "ECC     分辨率1920*1080   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900936"
+    }
+  },
+  {
+    "list": {
+      "name": "农发行大屏可视化项目",
+      "thumbUrl": "/static/images/thumbnail/nfh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894339",
+      "actualUrl": "待补充",
+      "date": "2018年10月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/nfh/1.png",
+        "/static/images/design/nfh/2.png",
+        "/static/images/design/nfh/3.png",
+        "/static/images/design/nfh/4.png",
+        "/static/images/design/nfh/5.png",
+        "/static/images/design/nfh/6.png",
+        "/static/images/design/nfh/7.png"
+      ],
+      "customerName": "中国农业发展银行",
+      "intro": "中国农业发展银行从多场景多角度展示行内的业务和IT监控信息，辅助银行IT运维人员进行对外宣传和日常管理。",
+      "category": "参观主题、运维主题、年终结算",
+      "env": "监控室     分辨率7680*2160  LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894339"
+    }
+  },
+  {
+    "list": {
+      "name": "地面站大屏可视化平台",
+      "thumbUrl": "/static/images/thumbnail/dmz.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893196",
+      "actualUrl": "待补充",
+      "date": "2018年03月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/dmz/1.png",
+        "/static/images/design/dmz/2.png",
+        "/static/images/design/dmz/3.png",
+        "/static/images/design/dmz/4.png",
+        "/static/images/design/dmz/5.png",
+        "/static/images/design/dmz/6.png",
+        "/static/images/design/dmz/7.png"
+      ],
+      "customerName": "中国科学遥感与数字地球研究所",
+      "intro": "基于中国遥感卫星地面站本部的展现需求，结合用户的业务现状、统一设计、统一规划，构建基于业务视角的大屏可视化展现模式，形象化展示中国遥感卫星地面站本部全息的运作状况，从而达到提升中国遥感卫星地面站本部对外展示工作成果的手段",
+      "category": "参观主题",
+      "env": "演示大厅     分辨率6144*2304   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893196"
+    }
+  },
+  {
+    "list": {
+      "name": "代号：大牛可视化导航系统",
+      "thumbUrl": "/static/images/thumbnail/dn.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894357",
+      "actualUrl": "待补充",
+      "date": "2017年12月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/dnksh/1.png",
+        "/static/images/design/dnksh/2.png",
+        "/static/images/design/dnksh/3.png",
+        "/static/images/design/dnksh/4.png",
+        "/static/images/design/dnksh/5.png",
+        "/static/images/design/dnksh/6.png"
+      ],
+      "customerName": "某单位",
+      "intro": "为了能全方位的展示本单位的运行状态，该系统与运行数据进行实施对接并指导工作人员进行流程的运转，满足日常工作和对外展示的要求。",
+      "category": "参观主题、监控主题",
+      "env": "指挥大厅     分辨率3840*2160   LCD拼接屏 ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894357"
+    }
+  },
+  {
+    "list": {
+      "name": "606研究所资源监控可视化项目",
+      "thumbUrl": "/static/images/thumbnail/606yjs.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893226",
+      "actualUrl": "http://111.204.156.10:8107/chart/publish/606_demo",
+      "date": "2017年12月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/606yjs/1.png"],
+      "customerName": "沈阳606研究所",
+      "intro": "为了满足606研究对数据中心的计算资源进行监控，建立一天数据可视化大屏，对中心计算资源的统计、健康度进行实时展示，提升研究所内运维的管理能力。",
+      "category": "计算资源运行状态监控",
+      "env": "监控大厅     分辨率1920*1200   LCD",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893226"
+    }
+  },
+  {
+    "list": {
+      "name": "建行南湖大屏可视化平台",
+      "thumbUrl": "/static/images/thumbnail/jhksh3.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893246",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5ce608a8b3fb8951c8cd7cd2",
+      "date": "2018年07月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/jhksh1/1.png",
+        "/static/images/design/jhksh1/2.png",
+        "/static/images/design/jhksh1/3.png",
+        "/static/images/design/jhksh1/4.png",
+        "/static/images/design/jhksh1/5.png"
+      ],
+      "customerName": "建设银行",
+      "intro": "建行南湖中心为了迎接全国领导的检查参观，在短时间内建设了一套数据中心的监控大屏，并得到全国领导的一致认可。",
+      "category": "参观主题",
+      "env": "监控室     分辨率11520*2160  LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893246"
+    }
+  },
+  {
+    "list": {
+      "name": "宁夏中卫云数据中心",
+      "thumbUrl": "/static/images/thumbnail/nxzwysjzx.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027210",
+      "actualUrl": "待补充",
+      "date": "2017年12月",
+      "industry": "企业",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/nxzwysjzx/1.png"],
+      "customerName": "宁夏誉成云创数据投资有限公司",
+      "intro": "云数据中心监控大厅内，需要建设一套数据可视化系统，用于实时展示数据中心的机房环境信息，方便运维人员及时发现问题进行排障，通过3D可视化的方式展示机房环境，并将重要的暖通、配电系统以拓扑图的方式辅助运维人员梳理问题。",
+      "category": "安全运行",
+      "env": "监控大厅     分辨率7119*2160   LCD拼接屏 ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027210"
+    }
+  },
+  {
+    "list": {
+      "name": "华为DCIM展示",
+      "thumbUrl": "/static/images/thumbnail/hwDCIM.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027276",
+      "actualUrl": "待补充",
+      "date": "2017年11月",
+      "industry": "企业",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hwDCIM/1.png",
+        "/static/images/design/hwDCIM/2.png",
+        "/static/images/design/hwDCIM/3.png",
+        "/static/images/design/hwDCIM/4.png",
+        "/static/images/design/hwDCIM/5.png"
+      ],
+      "customerName": "华为技术有限公司",
+      "intro": "该套数据可视化的内容用于在国外展会上对外宣传华为DCIM NetEco6000",
+      "category": "DC Operation、DC Operation for Colo、DC Maintanance",
+      "env": "展会大厅 分辨率1920*1080 LED拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027276"
+    }
+  },
+  {
+    "list": {
+      "name": "福州数字办可视化项目",
+      "thumbUrl": "/static/images/thumbnail/fzszb.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893601",
+      "actualUrl": "http://111.204.156.10:8107/chart/publish/%E7%A6%8F%E5%B7%9E%E5%9C%BA%E6%99%AF1_demo",
+      "date": "2017年12月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/fzszb/1.png",
+        "/static/images/design/fzszb/2.png"
+      ],
+      "customerName": "福州数字办",
+      "intro": "福州数字办为强化本单位的数据中心管理能力，通过大屏可视化平台集中监控各个机房的网络链路、资产统计与告警情况，提升管理效率。",
+      "category": "监控决策分析、资源管理",
+      "env": "数据中心     分辨率1920*1080   LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893601"
+    }
+  },
+  {
+    "list": {
+      "name": "咪咕音乐机房监控可视化",
+      "thumbUrl": "/static/images/thumbnail/mgyy.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15901826",
+      "actualUrl": "待补充",
+      "date": "2018年10月",
+      "industry": "企业",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/mgyy/1.png"],
+      "customerName": "咪咕音乐有限公司",
+      "intro": "作为辅助咪咕音乐数据中心的监控工作，围绕全国数据机房进行监控展示，统计各类告警数量、网络链路状况及设备的资产统计等。",
+      "category": "分省机房监控",
+      "env": "监控大厅     分辨率1920*1080   LCD拼接屏 ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15901826"
+    }
+  },
+  {
+    "list": {
+      "name": "深圳交警集中运维可视化平台",
+      "thumbUrl": "/static/images/thumbnail/szjj.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900997",
+      "actualUrl": "http://111.204.156.10:8107/chart/publish/%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6_demo",
+      "date": "2018年09月",
+      "industry": "公检法",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/szjj/1.png",
+        "/static/images/design/szjj/2.png",
+        "/static/images/design/szjj/3.png",
+        "/static/images/design/szjj/4.png",
+        "/static/images/design/szjj/5.png"
+      ],
+      "customerName": "深圳市公安局",
+      "intro": "作为辅助深圳市公安局数据中心的监控工作。",
+      "category": "综合视图、资产视图、事件视图、分布视图、数据视图",
+      "env": "调度大厅     分辨率1920*1080   LCD拼接屏 ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900997"
+    }
+  },
+  {
+    "list": {
+      "name": "黑龙江省公安厅数据可视化平台",
+      "thumbUrl": "/static/images/thumbnail/hljsgat.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027163",
+      "actualUrl": "待补充",
+      "date": "2017年08月",
+      "industry": "公检法",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hljsgat/1.png",
+        "/static/images/design/hljsgat/2.png",
+        "/static/images/design/hljsgat/3.png",
+        "/static/images/design/hljsgat/4.png",
+        "/static/images/design/hljsgat/5.png"
+      ],
+      "customerName": "黑龙江省公安厅",
+      "intro": "黑龙江省公安厅为进一步加强工作管理，借助数据可视化的方式针对全省范围的人口进行统计管理。",
+      "category": "人口视图、场所视图、索件视图、涉稳视图",
+      "env": "调度大厅     分辨率1920*1080   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027163"
+    }
+  },
+  {
+    "list": {
+      "name": "龙岗公安局大屏可视化平台",
+      "thumbUrl": "/static/images/thumbnail/lggaj.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027249",
+      "actualUrl": "http://111.204.156.10:8107/chart/publish/longgang_demo",
+      "date": "2017年10月",
+      "industry": "公检法",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/lggaj/1.png",
+        "/static/images/design/lggaj/2.png",
+        "/static/images/design/lggaj/3.png",
+        "/static/images/design/lggaj/4.png",
+        "/static/images/design/lggaj/5.png"
+      ],
+      "customerName": "深圳市公安局龙岗分局",
+      "intro": "在建设DCV可视化项目的基础上，为加强深圳市公安局的数据中心运维管理的水平，建设一套可视化大屏，帮助运维人员及领导快速排障，准确掌握数据中心的资产、告警、工单等信息。",
+      "category": "综合视图、资产视图、告警视图、工单视图、数据视图",
+      "env": "调度大厅     分辨率1919*985   LCD拼接屏 ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027249"
+    }
+  },
+  {
+    "list": {
+      "name": "延长石油数据中心可视化平台",
+      "thumbUrl": "/static/images/thumbnail/ycsysjzx.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900854",
+      "actualUrl": "待补充",
+      "date": "2018年11月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/ycsysjzx/1.png"],
+      "customerName": "陕西延长石油有限责任公司",
+      "intro": "为了进一步完善数据中心可视化的平台内容，建设了一套展示大屏，作为延长石油可视化的入口。",
+      "category": "资源使用统计",
+      "env": "监控室     分辨率1920*1080  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15900854"
+    }
+  },
+  {
+    "list": {
+      "name": "广东省厅监管可视化大屏",
+      "thumbUrl": "/static/images/thumbnail/gdjg.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893944",
+      "actualUrl": "待补充",
+      "date": "2018年05月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/gdjg/1.png"],
+      "customerName": "广东省厅监管总队",
+      "intro": "展示全省监管规模情况，实时跟踪押运就医、视频监控、值班的信息。",
+      "category": "业务规模、押运就医、风险监控、视频监控、值班调度",
+      "env": "指挥大厅     分辨率1920*1080   LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893944"
+    }
+  },
+  {
+    "list": {
+      "name": "昆仑银行数据中心可视化",
+      "thumbUrl": "/static/images/thumbnail/klyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20023035",
+      "actualUrl": "待补充",
+      "date": "2018年09月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/klyh/1.png",
+        "/static/images/design/klyh/2.png"
+      ],
+      "customerName": "昆仑银行",
+      "intro": "基于DCV3d可视化平台，增加了一套地理可视化系统，展示昆仑银行的网络拓扑和数据中心的基本信息。",
+      "category": "数据中心分布",
+      "env": "监控室     分辨率1920*1080  LCD拼接屏",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20023035"
+    }
+  },
+  {
+    "list": {
+      "name": "广东电力驾驶舱项目",
+      "thumbUrl": "/static/images/thumbnail/gddljsc.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20022772",
+      "actualUrl": "待补充",
+      "date": "2019年02月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/gddljsc/1.png",
+        "/static/images/design/gddljsc/2.png",
+        "/static/images/design/gddljsc/3.png"
+      ],
+      "customerName": "广东电网有限责任公司",
+      "intro": "为了集中展示广东电网的业务规模，通过可视化的方式表现出本单位的业务范围和监控情况。",
+      "category": "通信网业务规模、配网建设、应急通信和通信服务",
+      "env": "指挥大厅     分辨率12960*1440  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20022772"
+    }
+  },
+  {
+    "list": {
+      "name": "长春商务局地理可视化平台",
+      "thumbUrl": "/static/images/thumbnail/ccswj.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893622",
+      "actualUrl": "待补充",
+      "date": "2018年09月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/ccswj/1.png"],
+      "customerName": "长春商务局",
+      "intro": "长春商务局通过地理可视化平台建设了一套对外公开展示的信息系统，重点对长春的商务信息进行介绍宣传，为其招商引资增加更多手段。",
+      "category": "产业分布、项目分布",
+      "env": "展示大厅     分辨率3584*1280  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15893622"
+    }
+  },
+  {
+    "list": {
+      "name": "陕西地税数据可视化平台",
+      "thumbUrl": "/static/images/thumbnail/sxds.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027385",
+      "actualUrl": "待补充",
+      "date": "2016年07月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/sxds/1.png",
+        "/static/images/design/sxds/2.png",
+        "/static/images/design/sxds/3.png"
+      ],
+      "customerName": "陕西省地方税务局",
+      "intro": "陕西省地方税务局为进行局情和网络的统一展示，建设了可视化平台，实现了对外的宣传与对内的管理要求。",
+      "category": "局情视窗、网络监控",
+      "env": "指挥大厅     分辨率2560*996  LCD ",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20027385"
+    }
+  },
+  {
+    "list": {
+      "name": "吉林地税数据可视化平台",
+      "thumbUrl": "/static/images/thumbnail/jilin.png",
+      "designUrl": "",
+      "actualUrl": "http://111.204.156.10:8107/chart/publish/%E5%90%89%E6%9E%97%E5%9C%B0%E7%A8%8E",
+      "date": "2016年07月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/jilin/jilin.png"],
+      "customerName": "吉林省地方税务局",
+      "intro": "吉林省地方税务局为进行系统服务状态的统一展示，建设了可视化平台，实现了对外的宣传与对内的管理要求。",
+      "category": "系统服务",
+      "env": "指挥大厅     分辨率1920*1080  LCD ",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "中国银行大屏可视化项目",
+      "thumbUrl": "/static/images/thumbnail/zgyh.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894384",
+      "actualUrl": "待补充",
+      "date": "2017年12月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/zgyh/1.png"],
+      "customerName": "中国银行",
+      "intro": "中国银行黑山扈数据中心建设一套数据可视化凭条，用于监控全球网络状态信息。通过大屏可以看到网络拓扑以及通断情况，同时还有一些流量的排名，从多个维度了解全行内网络信息。",
+      "category": "网络监控",
+      "env": "监控室     分辨率1280*1024  DLP",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=15894384"
+    }
+  },
+  {
+    "list": {
+      "name": "智慧城市",
+      "thumbUrl": "/static/images/thumbnail/zhcs.png",
+      "designUrl": "待补充",
+      "actualUrl": "https://thingjs.com/guide/sampleindex.html?name=/uploads/wechat/oLX7p01p-lBQeR49wRF5j_ox3X3U/ShenzhenCityBuilder.js",
+      "date": "2019年3月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/zhcs/1.png",
+        "/static/images/design/zhcs/2.png"
+      ],
+      "customerName": "无",
+      "intro": "苏州物联网展会——智慧城市DEMO",
+      "category": "智慧城市",
+      "env": "展示大厅     分辨率1513*830  DLP",
+      "docs": "待补充"
+    }
+  },
+  {
+    "list": {
+      "name": "国网内蒙古东部电力项目",
+      "thumbUrl": "/static/images/thumbnail/mgdl.png",
+      "designUrl": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20029200",
+      "actualUrl": "待补充",
+      "date": "2019年3月",
+      "industry": "能源",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/mgdl/1.png",
+        "/static/images/design/mgdl/2.png",
+        "/static/images/design/mgdl/3.png"
+      ],
+      "customerName": "国网内蒙古东部电力有限公司",
+      "intro": "本次项目将构建“电力调度可视化平台”，针对电网TMS系统、I6OOO系统、S6000系统、中兴立维动环系统进行统一的数据提取、数据汇聚、数据整合，通过标准的数据库进行数据交换，并以设备为单位，采用面向对象设计，借助于计算机图形理论和技术，形象生动地显示电网运行参数，为管理及调度人员提供电网实时数据的分类管理和显示。",
+      "category": "通信系统设备资产管理、信息通信系统设备运行监控、信息通信系统设备运行监控、信息通信系统全景监控、信息通信系统运行检修监控、信息设备、信息运行、网络安全运行监控、网络安全全景监控、专题监控、设备监控、通信运行",
+      "env": "监控大厅  分辨率6100*2745",
+      "docs": "https://111.204.156.11:8443/pages/viewpage.action?pageId=20029200"
+    }
+  },
+  {
+    "list": {
+      "name": "云南省公安厅数据中心机房监控大屏",
+      "thumbUrl": "/static/images/thumbnail/ynsgat.png",
+      "designUrl": "",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5cd920218fc3ca359a659a0a",
+      "date": "2019年5月",
+      "industry": "公检法",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/ynsgat/1.png"],
+      "customerName": "云南省公安厅",
+      "intro": "云南省公安厅数据中心机房监控大屏从底层抽取微观数据进行计算、从宏观的角度展示新建机房运行状态及健康状态，体现了公安厅数据中心的先进性与科技性，当外宾参观时，通过大屏可以直观的展示云南省公安厅科技实力。",
+      "category": "数据中心机房监控",
+      "env": "监控大屏   分辨率 5760*3240",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "民生银行安全大屏",
+      "thumbUrl": "/static/images/thumbnail/minshenganquan.png",
+      "designUrl": "",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5d2fd5c8b3fb895cf5b0b4aa",
+      "date": "2019年7月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/minshenganquan/1.png",
+        "/static/images/design/minshenganquan/2.png"
+      ],
+      "customerName": "民生银行",
+      "intro": "暂无",
+      "category": "安全资产 安全威胁",
+      "env": "安全大屏   分辨率 7680*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "民生银行ECC大屏",
+      "thumbUrl": "/static/images/thumbnail/minshengECC.png",
+      "designUrl": "",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5d2e954b8fc3ca5ae32460eb",
+      "date": "2019年6月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/minshengECC/1.png"],
+      "customerName": "民生银行",
+      "intro": "暂无",
+      "category": "数据中心",
+      "env": "监控大屏   分辨率 7680*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "北京移动数据中心智能运维大屏",
+      "thumbUrl": "/static/images/thumbnail/beijingyidong.png",
+      "designUrl": "",
+      "actualUrl": "http://chart.thingjs.com/chart/publish/5d2e954b8fc3ca5ae32460eb",
+      "date": "2019年6月",
+      "industry": "通讯",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/beijingyidong/1.png",
+        "/static/images/design/beijingyidong/7.png",
+        "/static/images/design/beijingyidong/2.png",
+        "/static/images/design/beijingyidong/3.png",
+        "/static/images/design/beijingyidong/4.png",
+        "/static/images/design/beijingyidong/5.png",
+        "/static/images/design/beijingyidong/6.png"
+      ],
+      "customerName": "北京移动",
+      "intro": "暂无",
+      "category": "数据中心",
+      "env": "监控大屏   分辨率 5760*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "西安交大数据中心大屏",
+      "thumbUrl": "/static/images/thumbnail/xianjiaoda.png",
+      "designUrl": "",
+      "actualUrl": "https://chart.thingjs.com/chart/publish/5d1eb48bb3fb8909444fd877",
+      "date": "2019年6月",
+      "industry": "教育",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/xianjiaoda/1.png",
+        "/static/images/design/xianjiaoda/2.png",
+        "/static/images/design/xianjiaoda/3.png",
+        "/static/images/design/xianjiaoda/4.png",
+        "/static/images/design/xianjiaoda/5.png",
+        "/static/images/design/xianjiaoda/6.png"
+      ],
+      "customerName": "西安交通大学",
+      "intro": "暂无",
+      "category": "整体概览 兴庆校区 创新港 雁塔校区 曲江校区",
+      "env": "数据中心大屏   分辨率 17280*3240",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "交行应急管理大屏",
+      "thumbUrl": "/static/images/thumbnail/jiaohangyingji.png",
+      "designUrl": "",
+      "actualUrl": "https://chart.thingjs.com/chart/publish/5d2d2ca7b3fb895cf5b0b49e",
+      "date": "2019年6月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/jiaohangyingji/1.png"],
+      "customerName": "上海交通银行",
+      "intro": "暂无",
+      "category": "生产运维",
+      "env": "生产大屏   分辨率 2880*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "网安熠星大赛项目",
+      "thumbUrl": "/static/images/thumbnail/yixingdasai.png",
+      "designUrl": "",
+      "actualUrl": "https://chart.thingjs.com/chart/publish/5d2d2ca7b3fb895cf5b0b49e",
+      "date": "2019年6月",
+      "industry": "政府",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/yixingdasai/1.png"],
+      "customerName": "央企",
+      "intro": "暂无",
+      "category": "安全保障",
+      "env": "安全保障大屏   分辨率 3840*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "智慧城市可视化管理平台",
+      "thumbUrl": "/static/images/thumbnail/zhihuichengshi.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年7月",
+      "industry": "企业",
+      "product": "智慧城市"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/zhihuichengshi/1.png",
+        "/static/images/design/zhihuichengshi/2.png",
+        "/static/images/design/zhihuichengshi/3.png"
+      ],
+      "customerName": "待补充",
+      "intro": "暂无",
+      "category": "存储管理 网格管理 告警管理",
+      "env": "展示大屏   分辨率 3840*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "贵州省农村信用联合社数据中心",
+      "thumbUrl": "/static/images/thumbnail/guizhounongxin.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年8月",
+      "industry": "金融",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/guizhounongxin/1.png"],
+      "customerName": "贵州省农村信用联合社",
+      "intro": "暂无",
+      "category": "数据中心",
+      "env": "数据中心   分辨率 1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "中远海运项目大屏",
+      "thumbUrl": "/static/images/thumbnail/zhongyuanhaiyun.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年8月",
+      "industry": "服务",
+      "product": "可视化"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/zhongyuanhaiyun/1.png",
+        "/static/images/design/zhongyuanhaiyun/2.png"
+      ],
+      "customerName": "中远海运",
+      "intro": "中远海运项目大屏项目",
+      "category": "IT监控 参观模式 动环监控 告警总览 网络监控 专业模式",
+      "env": "分辨率 7680*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "腾讯滨海大厦",
+      "thumbUrl": "/static/images/thumbnail/txbhds.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2017年3月",
+      "industry": "企业",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/txbhds/1.png",
+        "/static/images/design/txbhds/2.png",
+        "/static/images/design/txbhds/3.png"
+      ],
+      "customerName": "腾讯滨海大厦",
+      "intro": "腾讯滨海大厦的主概念是创造一座“互连”的塔楼，并且是移动互联网的研发基地，楼宇内部采用了多种智能设备，从多个维度进行管理监控，使整栋建筑做到节能、环保、舒适。",
+      "category": "供配电系统、供水管理、视频监控、照明管理、电梯管理、停车场管理、餐厅管理、人员定位、消防、海绵城市、会议室",
+      "env": "分辨率1920*783",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "江宁医疗服务中心",
+      "thumbUrl": "/static/images/thumbnail/jnylfwzx.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2017年12月",
+      "industry": "医疗",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/jnylfwzx/1.png",
+        "/static/images/design/jnylfwzx/2.png",
+        "/static/images/design/jnylfwzx/3.png"
+      ],
+      "customerName": "江宁医疗服务中心",
+      "intro": "江宁区医疗服务中心为新建院区，楼宇及业务管理均采用了智能管理设施，通过可视化方式对设备设施进行管理。",
+      "category": "供电系统、空调系统、视频监控、照明管理、电梯管理、停车场管理、门禁管理、消防、医疗业务",
+      "env": "分辨率2368*704",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "联想总部",
+      "thumbUrl": "/static/images/thumbnail/lxzb.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2018年9月",
+      "industry": "企业",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/lxzb/1.png",
+        "/static/images/design/lxzb/2.png",
+        "/static/images/design/lxzb/3.png"
+      ],
+      "customerName": "联想总部",
+      "intro": "联想总部分为东区、西区两部分，东区为联想总部的二期工程，楼宇中智能管理包含了空调、照明、消防、监控等多套系统。",
+      "category": "环境监测、能源管理、停车场管理、视频监控、门禁管理、IT运维、楼宇自控。",
+      "env": "分辨率1920*648",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "临平文化艺术长廊",
+      "thumbUrl": "/static/images/thumbnail/lpwhyszl.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2018年11月",
+      "industry": "政府",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/lpwhyszl/1.png",
+        "/static/images/design/lpwhyszl/2.png",
+        "/static/images/design/lpwhyszl/3.png",
+        "/static/images/design/lpwhyszl/4.png",
+        "/static/images/design/lpwhyszl/5.png",
+        "/static/images/design/lpwhyszl/6.png"
+      ],
+      "customerName": "临平文化艺术长廊",
+      "intro": "临平文化艺术长廊位于杭州市余杭区余杭镇， 是一条长600米，总占地53.5亩的城市艺术廊道，该长廊打造形、音、书、画四大艺术区，融入运动、休憩、戏曲交流、文化展览等一系列功能。本次场景建模范围是：艺术长廊园区、文化艺术交流中心、社区图书馆、社区戏曲交流中心、临平第三幼儿园、一般物品等。对接对象：照明管理、空调管理 、环境监测、视频监控、门禁管理、能源管理、停车管理、电子巡更、人员分布等子系统。",
+      "category": "园区可视化、建筑可视化、管线可视化、停车场管理、温度云图、实景风格",
+      "env": "展示大屏，分辨率2080*1404",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "东南大数据产业园研发楼二期智慧楼宇",
+      "thumbUrl": "/static/images/thumbnail/dndsjcyyyfleqzhly.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年3月",
+      "industry": "企业",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/dndsjcyyyfleqzhly/1.png",
+        "/static/images/design/dndsjcyyyfleqzhly/2.png",
+        "/static/images/design/dndsjcyyyfleqzhly/3.png",
+        "/static/images/design/dndsjcyyyfleqzhly/4.png",
+        "/static/images/design/dndsjcyyyfleqzhly/5.png"
+      ],
+      "customerName": "东南大数据产业园研发楼二期智慧楼宇",
+      "intro": "福州东南大数据产业园研发楼二期园区总建筑面积95556平方米、占地面积12059平方米。本次场景建模范围：整个园区外景、5栋主体建筑外立面、以及三号和五号楼的室内结构。对接对象：监控管理、通风管理、门禁管理、停车场管理、消防管理、能耗管理、告警工单管理等子系统。",
+      "category": "园区可视化、通风管理、门禁管理、能耗管理",
+      "env": "展示大屏，分辨率5760 * 1947",
+      "docs": "",
+      "product": "智能楼宇"
+    }
+  },
+  {
+    "list": {
+      "name": "望京SOHO智能楼宇3D可视化系统",
+      "thumbUrl": "/static/images/thumbnail/wjsohoznly3dkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年6月",
+      "industry": "企业",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/wjsohoznly3dkshxt/1.png",
+        "/static/images/design/wjsohoznly3dkshxt/2.png",
+        "/static/images/design/wjsohoznly3dkshxt/3.png",
+        "/static/images/design/wjsohoznly3dkshxt/4.png"
+      ],
+      "customerName": "望京SOHO智能楼宇3D可视化系统",
+      "intro": "基于望京SOHO的三维场景，展示园区、室内的物联网设备的分布及统计数据，并可远程反向控制物联网设备的开关。",
+      "category": "园区可视化、设备可视化、反向控制",
+      "env": "展示大屏，3640*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "桦甸市市民服务中心智能楼宇3D可视化系统",
+      "thumbUrl": "/static/images/thumbnail/hdssmfwzxznly3dkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年7月",
+      "industry": "政府",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hdssmfwzxznly3dkshxt/1.png",
+        "/static/images/design/hdssmfwzxznly3dkshxt/2.png",
+        "/static/images/design/hdssmfwzxznly3dkshxt/3.png",
+        "/static/images/design/hdssmfwzxznly3dkshxt/4.png"
+      ],
+      "customerName": "桦甸市市民服务中心智能楼宇3D可视化系统",
+      "intro": "三维展示桦甸市市民服务中心建筑模型，集成建筑视频监控系统和门禁管理系统，实现建筑可视化、管线可视化、监控管理可视化和门禁管理可视化。",
+      "category": "管线可视化、视频监控、门禁管理",
+      "env": "客户端，分辨率1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "西安交通大学创新港智慧学镇统一运营中心",
+      "thumbUrl": "/static/images/thumbnail/xajtdxcxgzhxztyyyzx.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年6月",
+      "industry": "教育",
+      "product": "智能楼宇"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/xajtdxcxgzhxztyyyzx/1.png",
+        "/static/images/design/xajtdxcxgzhxztyyyzx/2.png",
+        "/static/images/design/xajtdxcxgzhxztyyyzx/3.png"
+      ],
+      "customerName": "西安交通大学创新港智慧学镇统一运营中心",
+      "intro": "西安交通大学是我国最早兴办、享誉海内外的著名高等学府，是国家教育部直属重点大学，学校共分为4个校区分别为曲江校区、雁塔校区、兴庆校区、创新港校区。而创新港为新建校区，整体规划中对教学楼、图书馆、学生宿舍都增加了智能的管理，力争做大具有中国特色世界一流水平智慧学镇。",
+      "category": "环境监测、能源管理、停车场管理、视频监控、门禁管理、IT运维、楼宇自控。",
+      "env": "分辨率1920*648",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "河北省张家口水文水资源勘探局智慧水文可视化云平台项目",
+      "thumbUrl": "/static/images/thumbnail/hbszjkswszyktjzhswkshyptxm.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "19年8月",
+      "industry": "能源",
+      "product": "智慧城市"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hbszjkswszyktjzhswkshyptxm/1.png",
+        "/static/images/design/hbszjkswszyktjzhswkshyptxm/2.png",
+        "/static/images/design/hbszjkswszyktjzhswkshyptxm/3.png"
+      ],
+      "customerName": "河北省张家口水文水资源勘探局智慧水文可视化云平台项目",
+      "intro": "以三维形式管理水文资料，实时展示水系、水库、流域及站点情况，可以在三维场景上清晰看到各视频点位的分布，点击任一位置摄像头可以比较快速地查看到当前位置的实时视频图像，支持多条件高级搜索，多个条件可以进行组合过滤，通过图表等形式展现区域内水文概况的基本信息，按照相关的水文指标对水系、水库、流域及站点情况进行统计分析结果展示。",
+      "category": "水文信息可视化、视频监控可视化、查询定位功能、统计信息展示功能",
+      "env": "客户端，分辨率 1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "哈尔滨安防云三维可视化系统",
+      "thumbUrl": "/static/images/thumbnail/hebafyswkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年1月",
+      "industry": "公检法",
+      "product": "智慧城市"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hebafyswkshxt/1.png",
+        "/static/images/design/hebafyswkshxt/2.png",
+        "/static/images/design/hebafyswkshxt/3.png",
+        "/static/images/design/hebafyswkshxt/4.png",
+        "/static/images/design/hebafyswkshxt/5.png"
+      ],
+      "customerName": "哈尔滨安防云三维可视化系统",
+      "intro": "对哈尔滨市安防云项目进行可视化，对全市1万+摄像头进行展示，实现其运维可视化，对摄像头类型、工况、网络线路、运维机房、告警信息及工单信息进行可视化。",
+      "category": "设备统计、骨干网络、设备分布、告警工单、运维机房",
+      "env": "大屏，5760*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "重庆飞象工业物联网三维可视化系统",
+      "thumbUrl": "/static/images/thumbnail/zqfxgywlwswkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年8月",
+      "industry": "企业",
+      "product": "智慧城市"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/zqfxgywlwswkshxt/1.png",
+        "/static/images/design/zqfxgywlwswkshxt/2.png",
+        "/static/images/design/zqfxgywlwswkshxt/3.png"
+      ],
+      "customerName": "重庆飞象工业物联网三维可视化系统",
+      "intro": "对重庆飞象公司服务的工业厂区进行可视化，展示其全球工业物联网状况、重庆市工业现状，飞象平台数据情况以及工厂分布情况，同时对各工厂的概况、生产加工情况及内部的工业流程进行三维可视化。",
+      "category": "全球工业互联网及重庆工业概况、飞象平台相关数据、工业流程可视化",
+      "env": "大屏1920*1080、及等比9块屏适配",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "深圳公安局运维可视化系统",
+      "thumbUrl": "/static/images/thumbnail/szgajywkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年7月",
+      "industry": "公检法",
+      "product": "智慧城市"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/szgajywkshxt/1.png",
+        "/static/images/design/szgajywkshxt/2.png"
+      ],
+      "customerName": "深圳公安局运维可视化系统",
+      "intro": "对深圳市公安局运维业务进行可视化，主要展示其各设备、资产的分布及运维状况。",
+      "category": "综合试图、机房管理、资产配置、监控管理、服务流程、前端采集等10个主题",
+      "env": "1920*1080，3840*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "五棵松凯迪拉克体育馆项目",
+      "thumbUrl": "/static/images/thumbnail/wkskdlktygxm.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年5月12日",
+      "industry": "文体娱乐",
+      "product": "智慧安防"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/wkskdlktygxm/1.png",
+        "/static/images/design/wkskdlktygxm/2.png"
+      ],
+      "customerName": "五棵松凯迪拉克体育馆项目",
+      "intro": "为凯迪拉克体育馆搭建一套安防可视化管理系统，对接海康（视频监控）、人脸识别（商汤）、人员定位(青研讯科)、周界报警系统，在场馆三维模型的基础上实现安防监控、人员定位、周界报警查看等管理功能。",
+      "category": "场馆概览、安防监控、人员管理、周界告警、巡检管理",
+      "env": "指挥大厅 3840*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "甘肃省电力消防可视化",
+      "thumbUrl": "/static/images/thumbnail/gssdlxfksh.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年3月12日",
+      "industry": "能源",
+      "product": "智慧安防"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/gssdlxfksh/1.png",
+        "/static/images/design/gssdlxfksh/2.png"
+      ],
+      "customerName": "甘肃省电力消防可视化",
+      "intro": "对接白银电力公司（集成商）的消防统一管理平台，整体呈现甘肃省内所有电力消防站点的三维场景及消防相关设施设备信息。",
+      "category": "基本信息、消防预警、灭火系统、消防设施、视频监控",
+      "env": "指挥大厅 3840*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "北京电力隧道三维可视化项目",
+      "thumbUrl": "/static/images/thumbnail/bjdlsdswkshxm.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年7月20日",
+      "industry": "能源",
+      "product": "智慧安防"
+    },
+    "description": {
+      "designGalleries": ["/static/images/design/bjdlsdswkshxm/1.png"],
+      "customerName": "北京电力隧道三维可视化项目",
+      "intro": "管理长安街地下约600M的电力隧道，管理内容包括隧道内的消防、安防设施设备。",
+      "category": "电缆分布、隧道分布、巡检管理",
+      "env": "PC端 1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "克拉玛依市看守所",
+      "thumbUrl": "/static/images/thumbnail/klmyskss.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年5月1日",
+      "industry": "公检法",
+      "product": "智慧安防"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/klmyskss/1.png",
+        "/static/images/design/klmyskss/2.png"
+      ],
+      "customerName": "克拉玛依市看守所",
+      "intro": "通过三维电子地图管理克拉玛依市看守所安防设备、在押人员，对接视频监控、门禁、周界、人员统计等系统。",
+      "category": "安防监控、人员管理、报警管理",
+      "env": "PC端 1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "华胜化工项目",
+      "thumbUrl": "/static/images/thumbnail/hshgxm.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年5月1日",
+      "industry": "企业",
+      "product": "智慧安防"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/hshgxm/1.png",
+        "/static/images/design/hshgxm/2.png"
+      ],
+      "customerName": "华胜化工项目",
+      "intro": "对接华胜化工生产厂线液氯生产监控设备和视频监控系统。",
+      "category": "设备监控、巡检管理、报警管理",
+      "env": "PC端 1920*1080",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "数字化预案智能应用平台",
+      "thumbUrl": "/static/images/thumbnail/szhyaznyypt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "暂无",
+      "industry": "政府",
+      "product": "数字预案"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/szhyaznyypt/1.png",
+        "/static/images/design/szhyaznyypt/2.png",
+        "/static/images/design/szhyaznyypt/3.png"
+      ],
+      "customerName": "数字化预案智能应用平台",
+      "intro": "将上海徐汇苑以三维形式，将灾情、消防设施、周边力量等信息进行展现，并自动生成行车路线、进攻路线等战斗信息。",
+      "category": "周边力量可视化、消防设施可视化、警情管理可视化",
+      "env": "客户环境：展示大屏，分辨率 5760*3240",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "北京农商行业务可视化系统",
+      "thumbUrl": "/static/images/thumbnail/bjnshywkshxt.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2018年11月",
+      "industry": "金融",
+      "product": "其他"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/bjnshywkshxt/1.png",
+        "/static/images/design/bjnshywkshxt/2.png",
+        "/static/images/design/bjnshywkshxt/3.png",
+        "/static/images/design/bjnshywkshxt/4.png"
+      ],
+      "customerName": "北京农商行业务可视化系统",
+      "intro": "针对北农商的金库、网点及ATM业务进行可视化，并对农商行500+网点进行可视化建模，展示银行网点的网络连通状态及网点内的设备监控信息、金库的现金可视化及ATM的运维工况信息等。",
+      "category": "ATM可视化、网点可视化、金库可视化",
+      "env": "大屏，1920*1080，并做4块屏、9块屏适配。",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "中远海运航运供应链船舶监控管理项目",
+      "thumbUrl": "/static/images/thumbnail/zyhyhygylcbjkglxm.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年3月",
+      "industry": "企业",
+      "product": "其他"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/zyhyhygylcbjkglxm/1.png",
+        "/static/images/design/zyhyhygylcbjkglxm/2.png",
+        "/static/images/design/zyhyhygylcbjkglxm/3.png",
+        "/static/images/design/zyhyhygylcbjkglxm/4.png"
+      ],
+      "customerName": "中远海运航运供应链船舶监控管理项目",
+      "intro": "集成AIS信息，实现船舶环境可视化、航行动态可视化、智能载货可视化、智能告警可视化",
+      "category": "船舶环境可视化、航行动态可视化、智能载货可视化、智能告警可视化",
+      "env": "展示大屏，分辨率 3840*2160",
+      "docs": ""
+    }
+  },
+  {
+    "list": {
+      "name": "二三维场景编辑器",
+      "thumbUrl": "/static/images/thumbnail/eswcjbjq.png",
+      "designUrl": "",
+      "actualUrl": "",
+      "date": "2019年3月",
+      "industry": "交通运输",
+      "product": "其他"
+    },
+    "description": {
+      "designGalleries": [
+        "/static/images/design/eswcjbjq/1.png",
+        "/static/images/design/eswcjbjq/2.png"
+      ],
+      "customerName": "二三维场景编辑器",
+      "intro": "基于搭建的三维场景进行摄像头采集，摄像头与列表状态同步，摄像头状态展示等，可点击列表或双击摄像头打开监控画面；进行搭建场景的上传等。",
+      "category": "摄像头采集",
+      "env": "监控大屏，6920*2160",
+      "docs": ""
+    }
+  }
+]
